@@ -1,0 +1,47 @@
+
+Current Data Parameters
+NAME         MOM01-H150              
+EXPNO                10              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20260624              
+Time               8.24 h            
+INSTRUM           spect              
+PROBHD   Z108618_1022 (              
+PULPROG          zgpg30              
+TD                65536              
+SOLVENT           CDCl3              
+NS                 1024              
+DS                    4              
+SWH           25252.525 Hz           
+FIDRES         0.770646 Hz           
+AQ            1.2976128 sec          
+RG               198.49              
+DW               19.800 usec         
+DE                 6.50 usec         
+TE                298.2 K            
+D1           2.00000000 sec          
+D11          0.03000000 sec          
+TD0                   1              
+SFO1        100.6228298 MHz          
+NUC1                13C              
+P0                 3.33 usec         
+P1                10.00 usec         
+PLW1        59.68999863 W            
+SFO2        400.1316005 MHz          
+NUC2                 1H              
+CPDPRG[2        waltz16              
+PCPD2             90.00 usec         
+PLW2        16.29800034 W            
+PLW12        0.39436001 W            
+PLW13        0.19836000 W            
+
+F2 - Processing parameters
+SI                32768              
+SF          100.6127685 MHz          
+WDW                  EM              
+SSB                   0              
+LB                 1.00 Hz           
+GB                    0              
+PC                 1.40              

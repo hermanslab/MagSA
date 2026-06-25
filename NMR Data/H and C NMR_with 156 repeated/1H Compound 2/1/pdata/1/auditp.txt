@@ -1,0 +1,66 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= TH_lab
+$$ C:/Bruker/TopSpin3.2pl6/data/TH/MS-068-DMSO/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2018-11-20 15:40:01.728 +0100>,<TH_lab>,<RMNISIS>,<go>,<TOPSPIN 3.2>,
+      <created by zg
+	started at 2018-11-20 15:38:27.938 +0100,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       BF 12 3A 8D 3D 63 96 30 D4 25 17 E4 DF EC 54 1C
+       data hash MD5: 64K
+       E4 0F 52 16 8F C7 B3 AA ED 5A 4D 49 C8 81 1C EB>)
+(   2,<2018-11-20 15:40:07.016 +0100>,<TH_lab>,<RMNISIS>,<proc1d>,<TOPSPIN 3.2>,
+      <Start of raw data processing
+       ef LB = 0.3 FT_mod = 6 PKNL = 1 SI = 64K 
+       data hash MD5: 64K
+       95 71 31 FE 74 DF D1 7E 86 EF 8D FA DF 40 1C BE>)
+(   3,<2018-11-20 15:40:10.074 +0100>,<TH_lab>,<RMNISIS>,<proc1d>,<TOPSPIN 3.2>,
+      <abs n ABSG = 5 
+       data hash MD5: 64K
+       E1 D3 48 3E 10 9E AB BA BB B8 45 41 CD 9B 6C 0E>)
+(   4,<2018-11-20 15:40:12.431 +0100>,<TH_lab>,<RMNISIS>,<proc1d>,<TOPSPIN 3.2>,
+      <apk 
+       data hash MD5: 64K
+       9E B1 F0 50 FA 85 96 83 5D 1F B4 FD 8E 50 33 CC>)
+(   5,<2018-11-20 19:26:20.242 +0100>,<michi>,<DESKTOP-RUI7BGN>,<dataserver>,<TopSpin 4.0.2>,
+      <INTEGRAL 2018-11-20 19:25:08.677 +0100
+       DEFINE [8.708;8.670]
+       data hash MD5: 64K
+       9E B1 F0 50 FA 85 96 83 5D 1F B4 FD 8E 50 33 CC>)
+(   6,<2018-11-20 19:26:20.246 +0100>,<michi>,<DESKTOP-RUI7BGN>,<dataserver>,<TopSpin 4.0.2>,
+      <INTEGRAL 2018-11-20 19:25:25.917 +0100
+       DEFINE [7.903;7.572]
+       data hash MD5: 64K
+       9E B1 F0 50 FA 85 96 83 5D 1F B4 FD 8E 50 33 CC>)
+(   7,<2018-11-20 19:26:20.250 +0100>,<michi>,<DESKTOP-RUI7BGN>,<dataserver>,<TopSpin 4.0.2>,
+      <INTEGRAL 2018-11-20 19:25:38.880 +0100
+       DEFINE [4.188;4.004]
+       data hash MD5: 64K
+       9E B1 F0 50 FA 85 96 83 5D 1F B4 FD 8E 50 33 CC>)
+(   8,<2018-11-20 19:26:20.254 +0100>,<michi>,<DESKTOP-RUI7BGN>,<dataserver>,<TopSpin 4.0.2>,
+      <INTEGRAL 2018-11-20 19:25:50.510 +0100
+       DEFINE [2.953;2.721]
+       data hash MD5: 64K
+       9E B1 F0 50 FA 85 96 83 5D 1F B4 FD 8E 50 33 CC>)
+(   9,<2018-11-20 19:26:20.258 +0100>,<michi>,<DESKTOP-RUI7BGN>,<dataserver>,<TopSpin 4.0.2>,
+      <INTEGRAL 2018-11-20 19:26:00.188 +0100
+       DEFINE [1.842;1.681]
+       data hash MD5: 64K
+       9E B1 F0 50 FA 85 96 83 5D 1F B4 FD 8E 50 33 CC>)
+(  10,<2018-11-20 19:26:20.262 +0100>,<michi>,<DESKTOP-RUI7BGN>,<dataserver>,<TopSpin 4.0.2>,
+      <INTEGRAL 2018-11-20 19:26:03.492 +0100
+       DEFINE [1.681;1.512]
+       data hash MD5: 64K
+       9E B1 F0 50 FA 85 96 83 5D 1F B4 FD 8E 50 33 CC>)
+(  11,<2018-11-20 19:34:58.035 +0100>,<michi>,<DESKTOP-RUI7BGN>,<dataserver>,<TopSpin 4.0.2>,
+      <INTEGRAL 2018-11-20 19:34:56.008 +0100
+       DELETE_ALL
+       data hash MD5: 64K
+       9E B1 F0 50 FA 85 96 83 5D 1F B4 FD 8E 50 33 CC>)
+##END=
+
+$$ hash MD5
+$$ 65 00 A9 2E D8 57 B7 9B 6C 2A 36 BE B4 95 5C 1B

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2018-11-20T19:22:15">
+  <PeakList1D>
+    <PeakList1DHeader creator="michi" date="2018-11-20T19:22:15" expNo="1" name="MS-068-DMSO" owner="" procNo="1" source="C:/Users/michi/Desktop/data/NMR">
+      <PeakPickDetails>F1=8.699175ppm, F2=8.678128ppm, MI=4.44cm, MAXI=7.78cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="8.68916" intensity="6.527808" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="michi" date="2018-11-20T19:22:15" expNo="1" name="MS-068-DMSO" owner="" procNo="1" source="C:/Users/michi/Desktop/data/NMR">
+      <PeakPickDetails>F1=7.760149ppm, F2=7.709034ppm, MI=0.89cm, MAXI=1.72cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="7.742096" intensity="1.424173" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="michi" date="2018-11-20T19:22:15" expNo="1" name="MS-068-DMSO" owner="" procNo="1" source="C:/Users/michi/Desktop/data/NMR">
+      <PeakPickDetails>F1=4.104192ppm, F2=4.082913ppm, MI=1.47cm, MAXI=16.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="4.096825" intensity="1.808556" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="michi" date="2018-11-20T19:22:15" expNo="1" name="MS-068-DMSO" owner="" procNo="1" source="C:/Users/michi/Desktop/data/NMR">
+      <PeakPickDetails>F1=2.855010ppm, F2=2.816153ppm, MI=0.92cm, MAXI=1.37cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="2.840451" intensity="1.216059" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="michi" date="2018-11-20T19:22:15" expNo="1" name="MS-068-DMSO" owner="" procNo="1" source="C:/Users/michi/Desktop/data/NMR">
+      <PeakPickDetails>F1=1.746681ppm, F2=1.724940ppm, MI=0.76cm, MAXI=1.17cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="1.734394" intensity="0.9850519" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="michi" date="2018-11-20T19:22:15" expNo="1" name="MS-068-DMSO" owner="" procNo="1" source="C:/Users/michi/Desktop/data/NMR">
+      <PeakPickDetails>F1=1.635663ppm, F2=1.611609ppm, MI=0.78cm, MAXI=1.21cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="1.624532" intensity="0.9675902" type="0"/>
+  </PeakList1D>
+</PeakList>

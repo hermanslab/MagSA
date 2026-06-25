@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2026-06-24T18:47:30.189+02:00" expNo="10" name="MOM01-H0150(2)" owner="" procNo="1" source="C:/Bruker/TopSpin3.8.0/data/TMH/nmr">
+      <PeakPickDetails>F1=225.493607ppm, F2=-25.493675ppm, MI=0.00cm, MAXI=10000.00cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="172.554688" intensity="1.749147e+000" type="0"/>
+    <Peak1D F1="171.666550" intensity="1.738265e+000" type="0"/>
+    <Peak1D F1="163.030533" intensity="1.310676e+000" type="0"/>
+    <Peak1D F1="130.856339" intensity="2.410579e+000" type="0"/>
+    <Peak1D F1="126.867897" intensity="5.809087e-001" type="0"/>
+    <Peak1D F1="126.596039" intensity="2.416802e+000" type="0"/>
+    <Peak1D F1="81.797066" intensity="3.358463e+000" type="0"/>
+    <Peak1D F1="77.351936" intensity="3.125354e+001" type="0"/>
+    <Peak1D F1="77.033691" intensity="3.236699e+001" type="0"/>
+    <Peak1D F1="76.716507" intensity="3.162877e+001" type="0"/>
+    <Peak1D F1="56.037262" intensity="1.140033e+000" type="0"/>
+    <Peak1D F1="55.733601" intensity="1.358461e+000" type="0"/>
+    <Peak1D F1="40.016499" intensity="7.185612e-001" type="0"/>
+    <Peak1D F1="38.810600" intensity="1.210872e+000" type="0"/>
+    <Peak1D F1="29.696442" intensity="3.774755e-001" type="0"/>
+    <Peak1D F1="27.990671" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="27.950727" intensity="1.037475e+001" type="0"/>
+    <Peak1D F1="26.576921" intensity="1.259432e+000" type="0"/>
+    <Peak1D F1="25.266977" intensity="1.347167e+000" type="0"/>
+  </PeakList1D>
+</PeakList>

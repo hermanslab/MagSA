@@ -1,0 +1,14 @@
+##TITLE= Audit trail, TopSpin 3.8.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ Z:/TMH/data/TMH/nmr/MOM01-H0150 1H/10/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2026-06-25 11:33:39.639 +0200>,<nmr>,<NMRLAB>,<dirdata>,<TopSpin 3.8.0>,
+      <wrpa from 1 10 "MOM01-H0150 1H" "C:/Bruker/TopSpin3.8.0/data/TMH/nmr"
+       data hash MD5: 64K
+       14 9A 46 56 76 E8 39 25 97 39 C0 C1 EE DE 53 82>)
+##END=
+
+$$ hash MD5
+$$ B8 72 0E 0C BB 99 D3 E5 71 D6 E2 6D 77 30 15 79

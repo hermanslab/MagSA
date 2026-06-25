@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2026-06-25T07:24:35.263+02:00" expNo="10" name="MOM01-H0160" owner="" procNo="1" source="C:/Bruker/TopSpin3.8.0/data/TMH/nmr">
+      <PeakPickDetails>F1=225.493607ppm, F2=-25.493675ppm, MI=0.00cm, MAXI=10000.00cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="180.416611" intensity="9.715162e+000" type="0"/>
+    <Peak1D F1="125.548073" intensity="7.741904e+000" type="0"/>
+    <Peak1D F1="58.596066" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="52.694759" intensity="8.908154e+000" type="0"/>
+    <Peak1D F1="48.013058" intensity="1.000238e+001" type="0"/>
+    <Peak1D F1="29.568907" intensity="7.324115e+000" type="0"/>
+  </PeakList1D>
+</PeakList>

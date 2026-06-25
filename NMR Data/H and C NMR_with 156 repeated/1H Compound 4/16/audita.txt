@@ -1,0 +1,18 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= TH_lab
+$$ C:/Bruker/TopSpin3.2pl6/data/TH/MS-160_D2O_75C_1mgmL-1/16/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2020-10-12 14:19:22.514 +0200>,<TH_lab>,<RMNISIS>,<go>,<TOPSPIN 3.2>,
+      <created by zg
+	started at 2020-10-12 14:17:48.711 +0200,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       65 D4 50 6B 90 8D 1B FF 0C 73 21 25 AD D6 B5 E8
+       data hash MD5: 64K
+       DB 0F 81 AD 01 C6 65 35 09 B6 EC D2 81 8B 58 14>)
+##END=
+
+$$ hash MD5
+$$ E0 16 F7 4E 4C 59 C4 AB 6B AB 59 74 E8 08 E6 D4
